@@ -27,7 +27,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/aws-samples/eks-blueprints-add-ons.git
+    repoURL: https://github.com/tomdev/eks-blueprints-add-ons.git
     targetRevision: HEAD
     path: chart
     helm: 
